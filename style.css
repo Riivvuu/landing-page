@@ -79,7 +79,6 @@ button {
 
 .card-section h1 {
     text-align: center;
-    margin-bottom: 2rem;
     font-size: 36px;
     color: #1F2937;
     font-weight: 900;
@@ -87,8 +86,14 @@ button {
 
 .cards {
     display: flex;
-    gap: 1rem;
+    gap: 2rem;
     justify-content: center;
     flex-wrap: wrap;
     text-align: center;
+    padding: 2rem 0;
+}
+
+.card img {
+    border: #3B82F6 1px solid;
+    border-radius: 8px;
 }
