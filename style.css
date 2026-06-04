@@ -107,11 +107,14 @@ button {
 .quote {
     background: #E5E7EB;
     padding: 2rem 10rem;
-    display: flex;
-    flex-direction: column;
-
+    color: #1F2937;
 }
 
+.quote .text,
+.quote .author {
+    display: flex;
+    flex-direction: column;
+}
 
 .quote .text {
     font-size: 36px;
@@ -123,7 +126,6 @@ button {
 
 .quote .author {
     font-size: 18px;
-    color: #1F2937;
     font-weight: 700;
     align-self: flex-end;
 }
