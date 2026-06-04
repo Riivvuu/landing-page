@@ -4,6 +4,8 @@ body {
     min-height: 100vh;
     display: flex;
     flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
 }
 
 .Hero {
@@ -15,4 +17,24 @@ body {
     display: flex;
     justify-content: space-between;
     padding: 1rem 2rem;
+}
+
+.hair img {
+    height: 40px;
+}
+
+.header-links {
+    display: flex;
+    gap: 16px;
+}
+
+ul {
+    list-style: none;
+    padding: 0;
+}
+
+a {
+    text-decoration: none;
+    color: #E5E7EB;
+    font-size: 18px;
 }
