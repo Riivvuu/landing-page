@@ -4,18 +4,17 @@ body {
     min-height: 100vh;
     display: flex;
     flex-direction: column;
-    justify-content: space-between;
 }
 
 .Hero {
     background: #1F2937;
     color: #F9FAF8;
+    padding: 1rem 10rem;
 }
 
 .hair {
     display: flex;
     justify-content: space-between;
-    padding: 1rem 2rem;
 }
 
 .hair img {
