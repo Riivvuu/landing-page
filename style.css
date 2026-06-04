@@ -5,3 +5,14 @@ body {
     display: flex;
     flex-direction: column;
 }
+
+.Hero {
+    background: #1F2937;
+    color: #F9FAF8;
+}
+
+.hair {
+    display: flex;
+    justify-content: space-between;
+    padding: 1rem 2rem;
+}
