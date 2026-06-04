@@ -6,7 +6,7 @@ body {
     flex-direction: column;
 }
 
-.Hero {
+.hero {
     background: #1F2937;
     color: #F9FAF8;
     padding: 1rem 10rem;
