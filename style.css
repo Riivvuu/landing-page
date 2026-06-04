@@ -128,11 +128,12 @@ button {
 
 .action-call {
     background: #3B82F6;
+    color: white;
     display: flex;
     justify-content: space-between;
     align-items: center;
     gap: 6rem;
-    padding: 2rem 18rem;
+    padding: 2rem 10rem;
     border-radius: 8px;
 }
 
