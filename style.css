@@ -125,6 +125,10 @@ button {
     align-self: flex-end;
 }
 
+.legs {
+    padding: 6rem 18rem;
+}
+
 .action-call {
     background: #3B82F6;
     color: white;
