@@ -9,7 +9,7 @@ body {
 .hero {
     background: #1F2937;
     color: #F9FAF8;
-    padding: 1rem 18rem;
+    padding: 1rem 15rem;
 }
 
 .hair {
@@ -72,7 +72,7 @@ button {
     display: flex;
     flex-direction: column;
     justify-content: center;
-    padding: 2rem 18rem;
+    padding: 2rem 15rem;
 }
 
 .card-section h1 {
@@ -104,7 +104,7 @@ button {
 
 .quote {
     background: #E5E7EB;
-    padding: 2rem 24rem;
+    padding: 2rem 20rem;
     display: flex;
     flex-direction: column;
 }
@@ -126,7 +126,7 @@ button {
 }
 
 .legs {
-    padding: 6rem 18rem;
+    padding: 6rem 15rem;
 }
 
 .action-call {
@@ -136,7 +136,7 @@ button {
     justify-content: space-between;
     align-items: center;
     gap: 6rem;
-    padding: 2rem 10rem;
+    padding: 2rem 9rem;
     border-radius: 8px;
 }
 
