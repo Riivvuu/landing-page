@@ -144,3 +144,16 @@ button {
     border: #F9FAF8 2px solid;
     flex-shrink: 0;
 }
+
+.footer {
+    background: #1F2937;
+    color: #E5E7EB;
+    text-align: center;
+    padding: 2 rem 15rem;
+    text-align: center;
+}
+
+.footer a {
+    color: #E5E7EB;
+    text-decoration: underline;
+}
